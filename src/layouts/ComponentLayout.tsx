@@ -16,9 +16,7 @@ const ComponentLayout = ({}: Props) => {
     "Modal",
     "Input",
     "Navbar",
-    "Carousel",
-    "Tooltip",
-    "Layout",
+    "Tooltip"  
   ];
 
   return (
