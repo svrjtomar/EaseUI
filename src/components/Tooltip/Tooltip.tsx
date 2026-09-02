@@ -3,7 +3,7 @@ import { cva, type VariantProps } from "class-variance-authority";
 import { createPortal } from "react-dom";
 import { cn } from "@/libs/utils";
 import gsap from "gsap";
-import { User } from "lucide-react";
+
 
 const tooltipVariants = cva(
     "fixed z-50 px-3 py-1.5 text-xs font-medium rounded-md shadow-md pointer-events-none transition-none",

@@ -1,4 +1,3 @@
-import React from "react";
 import { Tooltip } from "@/components/Tooltip";
 import ComponentDemo from "../ComponentsDemo";
 import { Button } from "@/components/Button";
